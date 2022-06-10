@@ -35,6 +35,7 @@ header {
 #logo {
     /* padding-top: 30px; */
     width: 225px;
+    margin-left: 25px;
 }
 
 .nav-items {
